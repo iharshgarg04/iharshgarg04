@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Garg</h1>
 <h3 align="center">A software enthusiast who likes coding</h3>
 
-- 🔭 I’m currently working on [Chat Application](chat-application-cl.vercel.app)
+- 🔭 I’m currently working on [Chat Application](https://chat-application-cl.vercel.app)
 
 - 🌱 I’m currently learning **React, Spring boot, Java**
 
