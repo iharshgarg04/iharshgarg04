@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Chat Application](https://chat-application-cl.vercel.app)
 
-- 🌱 I’m currently learning **React, Spring boot, Java**
+- 🌱 I’m currently learning , Java**, **Operating Systems
 
 - 💬 Ask me about **MERN, Java**
 
